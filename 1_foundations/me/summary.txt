@@ -1,2 +1,35 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Value Engineering – ERP Enabled Transformation (Chemical & Energy)
+
+Built AI-powered KPI forecasting & insights platform (Azure OpenAI GPT-4o, driver-based time series) delivering 95%+ accuracy, 70% less manual reporting, and $8M+ annual efficiency gains.
+
+Integrated human-in-the-loop validation; deployed in Azure AI Foundry (Functions, Data Factory, AI Search).
+
+Created Agentic RAG-based KPI chatbot (LangChain, multi-agent orchestration, Azure AI Search) for real-time KPI insights.
+
+Omnichannel Marketing (Diabetes Care)
+
+Designed AI-driven HCP micro-segmentation, boosting Soliqua & Toujeo prescriptions.
+
+Optimized channel allocation → +15% HCP engagement, +18% interaction efficiency, –12% resource spend.
+
+Health Care Knowledge Tool
+
+Built GenAI-powered entity search (Azure OpenAI Studio), improving catalog search 60–70%.
+
+Reduced metadata workload 30–40% via automated AI-driven metadata generation.
+
+Consent Form Analyzer
+
+Fine-tuned GPT-3.5 for medical queries; deployed chatbot answering 93% patient consent inquiries accurately.
+
+AI-Driven Regulatory Compliance
+
+Automated SOP updates, standards, & gap analysis with GenAI → +75% efficiency, –50% manual review.
+
+Improved stakeholder identification in regulatory docs by 50%, yielding major financial savings.
+
+Plant of the Future – Safety & Compliance
+
+Scaled computer vision collision-avoidance system with real-time alerts & dashboards.
+
+Transitioned 9 legacy models → single YOLO model, improving detection 30–50%, cutting re-training 50–60%, reducing safety incidents 15–20%.
